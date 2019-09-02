@@ -1,4 +1,4 @@
-FROM goffinet/kali-linux-docker
+FROM kalilinux/kali-linux-docker
 # Metadata params
 ENV DEBIAN_FRONTEND noninteractive
 RUN set -x \
